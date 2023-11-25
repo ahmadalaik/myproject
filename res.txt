@@ -1,0 +1,2 @@
+Execution time: 11797.13 seconds
+Best: 0.8232269503546099, using {'batch_size': 8, 'dropout': 0.2, 'epochs': 100, 'filters': 64, 'lstm': 128, 'units': 32}
